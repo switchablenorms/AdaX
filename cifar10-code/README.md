@@ -1,5 +1,5 @@
 # The CIFAR-10 Training Code
-<p align="center"><img width="100%" src="pics/CIFAR_IN.png"/></p>
+<p align="center"><img width="100%" src="cifar10.png"/></p>
 
 ## Description
 
