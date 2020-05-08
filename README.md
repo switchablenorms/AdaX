@@ -1,6 +1,6 @@
 # AdaX: Adaptive Gradient Descent with Exponential Long Term Memory
 
-A new adaptive optimizer that can run as fast as Adam and as good as SGDM in many Computer Vision and Natural Language Processing tasks. 
+A new adaptive optimizer that can run faster than and as good as SGDM in many Computer Vision and Natural Language Processing tasks. 
 
 #### This is a Pytorch Implementation. If you know how to implement the algorithm in Tensorflow, please leave a message.
 
